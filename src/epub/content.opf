@@ -40,15 +40,13 @@
 		<meta property="term" refines="#subject-3">sh2008120160</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4018</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Special:Search?search=Japanese+Fairy+Tales&go=Go&ns0=1</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Yei_Theodora_Ozaki</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/yei-theodora-ozaki_japanese-fairy-tales</meta>
 		<dc:creator id="author">Yei Theodora Ozaki</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
